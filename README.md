@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently pursuing **MERN stack course at Masai School**
-
-- 🌱 I’m currently learning **React.js**
+- 🌱 I have two year experience as a **React.js** and **Next.js** developer in Indus Net Technologies 
 
 - 📝 I regularly write articles on [https://medium.com/@rohit1995chourey](https://medium.com/@rohit1995chourey)
 
