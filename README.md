@@ -3,13 +3,13 @@
 
   
 <p align="center">
-  <a href="mailto:aakash.krm@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/aakashvani" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:rohit1995chourey@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/rohit-chourey" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://aakash-kumar.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://twitter.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
- <a href="https://instagram.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://medium.com/@aakashvani17" target="_blank"><img height="27" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://dev.to/aakashvani" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://twitter.com/rohitchourey19" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+ <a href="https://www.instagram.com/rohitchourey/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://medium.com/@rohit1995chourey" target="_blank"><img height="27" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+ 
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohitchourey0809&label=Profile%20views&color=0e75b6&style=flat" alt="rohitchourey0809" /> </p>
 
@@ -67,7 +67,7 @@
 
 
 
-
+ <!-- <a href="https://dev.to/aakashvani" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a> -->
 <!-- 
 
 <p> With over 1+ year as a MERN stack full-stack developer, specializes in creating resilient and user-focused solutions. Strength lies in collaborative engagement with cross-functional teams, contributing to the seamless delivery of successful projects and learning new stacks.</p> 
