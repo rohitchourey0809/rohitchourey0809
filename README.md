@@ -1,9 +1,9 @@
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
-<p align="center">With over 2+ year as a MERN stack full-stack developer, specializes in creating resilient and user-focused solutions. Strength lies in collaborative engagement with cross-functional teams, contributing to the seamless delivery of successful projects and learning new stacks.</p>
+<p align="center">With over 2+ years as a MERN stack full-stack developer, specializes in creating resilient and user-focused solutions. Strength lies in collaborative engagement with cross-functional teams, contributing to the seamless delivery of successful projects and learning new stacks.</p>
 
   
 <p align="center">
-  <a href="mailto:rohit1995chourey@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:tech.rohitchourey@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/rohit-chourey" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://rohit-personal-react-port-folio.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://twitter.com/rohitchourey19" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
