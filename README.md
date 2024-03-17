@@ -43,7 +43,7 @@
 <h3 align="center">GITHUB STATS</h3>
 
 <p align="center">
- <a href="https://github.com/salove16">
+ <a href="https://github.com/rohitchourey0809">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rohitchourey0809&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohitchourey0809&layout=compact&langs_count=8&theme=algolia"/>
  </a>
