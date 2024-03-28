@@ -40,7 +40,7 @@
 </p>
 
 <!----------------------------------------------------------------GITHUB STATS---------------------------------------------------------------------------->
-<h3 align="center">GITHUB STATS</h3>
+<h3 align="center">GITHUB STATUS</h3>
 
 <p align="center">
  <a href="https://github.com/rohitchourey0809">
