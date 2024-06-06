@@ -1,76 +1,24 @@
-<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
-<p align="center">With over 2+ years as a MERN stack full-stack developer, specializes in creating resilient and user-focused solutions. Strength lies in collaborative engagement with cross-functional teams, contributing to the seamless delivery of successful projects and learning new stacks.</p>
-
-  
-<p align="center">
-  <a href="mailto:tech.rohitchourey@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/rohit-chourey" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://rohit-personal-react-port-folio.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://twitter.com/rohitchourey19" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
- <a href="https://www.instagram.com/rohitchourey/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://medium.com/@rohit1995chourey" target="_blank"><img height="27" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
- 
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohitchourey0809&label=Profile%20views&color=0e75b6&style=flat" alt="rohitchourey0809" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on Indus Net Technologies<br>👯 I’m looking to collaborate on Mern Project<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning ReactJS , NextJS , ExpressJs , NodeJs , MongoDB ,Typescript , JavaScript , Sql ,MySql, TailwindCss,<br>💬 Ask me about DSA & Mern<br>⚡ Fun fact
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/rohit-chourey) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@rohit1995chourey) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://twitter.com/rohitchourey19) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://rohit-personal-react-port-folio.vercel.app/) 
 
-<!----------------------------------------------------------------TECHNOLOGIES---------------------------------------------------------------------------->
-<!--LINK FOR ICONS = https://github.com/marwin1991/profile-technology-icons -->
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rohitchourey0809&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohitchourey0809&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitchourey0809&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="center">TECHNOLOGIES I WORKED WITH 🔧</h3>
-<p align="center">
-<a><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="39" height="39" alt="html5"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="39" height="39" alt="css"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="39" height="39" alt="Javascript"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="39" height="39" alt="React.js"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="39" height="39" alt="redux"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="39" height="39" alt="Node.js"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="39" height="39" alt="Express.js"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="39" height="39" alt="MongoDB"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="39" height="39" alt="PostgreSQL"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="39" height="39" alt="mysql"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="39" height="39" alt="Rest API"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="39" height="39" alt="git"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="39" height="39" alt="npm"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="39" height="39" alt="Postman"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="39" height="39" alt="VS-code"/></a>
-<a><img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="39" height="39" alt="Jira"/></a>
-<!-- <a><img src="" width="39" height="39" alt=""/></a> -->
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rohitchourey0809&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!----------------------------------------------------------------GITHUB STATS---------------------------------------------------------------------------->
-<h3 align="center">GITHUB STATUS</h3>
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<p align="center">
- <a href="https://github.com/rohitchourey0809">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rohitchourey0809&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohitchourey0809&layout=compact&langs_count=8&theme=algolia"/>
- </a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohitchourey0809&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
-<!----------------------------------------------------------------GITHUB STATS---------------------------------------------------------------------------->
+---
+[![](https://visitcount.itsvg.in/api?id=rohitchourey0809&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <!-- <a href="https://dev.to/aakashvani" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a> -->
-<!-- 
-
-<p> With over 1+ year as a MERN stack full-stack developer, specializes in creating resilient and user-focused solutions. Strength lies in collaborative engagement with cross-functional teams, contributing to the seamless delivery of successful projects and learning new stacks.</p> 
-
--->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
