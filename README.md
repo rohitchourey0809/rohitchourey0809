@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Indus Net Technologies<br>👯 I’m looking to collaborate on Mern Project<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning ReactJS , NextJS , ExpressJs , NodeJs , MongoDB ,Typescript , JavaScript , Sql ,MySql, TailwindCss,<br>💬 Ask me about DSA & Mern<br>⚡ Fun fact
+🔭 I have 2+ year experience on Indus Net Technologies Kolkata, West Bengal <br>
+👯 I’m looking to collaborate on Mern Project<br>
+🌱 TechStack:  ReactJS , NextJS , ExpressJs , NodeJs , MongoDB ,Typescript , JavaScript , Sql ,MySql, TailwindCss,<br>
+💬 Ask me about DSA & Mern <br>
+⚡ [Portfolio](https://rohit-personal-react-port-folio.vercel.app/)  <br>
+⚡ [Resume](https://drive.google.com/file/d/1nVlyiBkmycX59oPNUwufNyRUUnVVBmri/view?usp=sharing)
+
 
 
 ## 🌐 Socials:
