@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I have 2+ year experience on Indus Net Technologies Kolkata, West Bengal <br>
+🔭  I have 3+ year experience including over 2 years at Indus Net Technologies, Kolkata, and 1 year at Ziptrrrip.com, Mumbai<br>
 👯 I’m looking to collaborate on Mern Project<br>
-🌱 TechStack:  ReactJS , NextJS , ExpressJs , NodeJs , MongoDB ,Typescript , JavaScript , Sql ,MySql, TailwindCss,<br>
+🌱 TechStack:  ReactJS , NextJS , AngularJs, ExpressJs , NodeJs , MongoDB ,Typescript , JavaScript , Sql ,MySql, TailwindCss,<br>
 💬 Ask me about DSA & Mern <br>
 ⚡ [Portfolio](https://rohit-personal-react-port-folio.vercel.app/)  <br>
-⚡ [Resume](https://drive.google.com/file/d/1_B0QZ-NutuY5cFIXS8GY6Dylrz1XAidY/view?usp=sharing)
+⚡ [Resume](https://drive.google.com/file/d/1GBUXE__uh-8ca3UH-BJPZne1HlK0rRst/view?usp=sharing)
 
 
 
