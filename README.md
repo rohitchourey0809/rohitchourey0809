@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I have 3+ year experience including over 2 years at Indus Net Technologies, Kolkata, and 1 year at Ziptrrrip.com, Mumbai<br>
+🔭  I have 4+ year experience including over 2 years at Indus Net Technologies, Kolkata, and 1 year at Ziptrrrip.com, Mumbai<br>
 👯 I’m looking to collaborate on Mern Project<br>
 🌱 TechStack:  ReactJS , NextJS , AngularJs, ExpressJs , NodeJs , MongoDB ,Typescript , JavaScript , Sql ,MySql, TailwindCss,<br>
 💬 Ask me about DSA & Mern <br>
