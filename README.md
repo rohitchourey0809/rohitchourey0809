@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Dec 21, 2025, 11_57_55 PM" src="https://github.com/user-attachments/assets/d1d38174-f495-422e-8660-f18e517a855f" />
+
 # 💫 About Me:
 🔭  I have 4+ year experience including over 2 years at Indus Net Technologies, Kolkata, and 1 year at Ziptrrrip.com, Mumbai<br>
 👯 I’m looking to collaborate on Mern Project<br>
