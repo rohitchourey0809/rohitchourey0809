@@ -6,7 +6,7 @@
 🌱 TechStack:  ReactJS , NextJS , AngularJs, ExpressJs , NodeJs , MongoDB ,Typescript , JavaScript , Sql ,MySql, TailwindCss,<br>
 💬 Ask me about DSA & Mern <br>
 ⚡ [Portfolio](https://rohit-chourey-next-portfolio0809.vercel.app/)  <br>
-⚡ [Resume](https://drive.google.com/file/d/1GBUXE__uh-8ca3UH-BJPZne1HlK0rRst/view?usp=sharing)
+⚡ [Resume](https://drive.google.com/drive/folders/1ZHSPndp_fxwurkL9sL87q8Qqop3lWUF6?usp=drive_link)
 
 
 
